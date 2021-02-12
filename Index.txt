@@ -1,2 +1,5 @@
 inport math
-import Thai
+import Thao
+
+Thêm một cái gì đó nào
+
